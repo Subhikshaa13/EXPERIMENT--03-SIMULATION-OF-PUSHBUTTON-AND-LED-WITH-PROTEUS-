@@ -108,10 +108,12 @@ void blink_led()
 
 ## Output screen shots of proteus  :
 ### LED ON:
-![image](https://github.com/Subhikshaa13/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787344/960f868c-b448-4b6f-9556-e2e72508d178)
+![328012004-08ba8a02-64c2-4a5c-bc5c-b18dab56a2c3](https://github.com/Subhikshaa13/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787344/36cdfdfd-d743-4931-a0d7-d081c855a75b)
+
 
 ### LED OFF:
-![image](https://github.com/Subhikshaa13/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787344/d993c228-30c5-4049-a162-ef01102e01fb)
+![328012011-ffdb96c5-de93-4cab-a371-a0bdcba7cc94](https://github.com/Subhikshaa13/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787344/16dae4d1-b19d-4c3a-ade6-edb3ff67a5f2)
+
 
 
 
@@ -121,7 +123,8 @@ void blink_led()
 ## Proteus layout(Add pdf screen shot of circuit here)
  
  
-![image](https://github.com/Subhikshaa13/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787344/19d9e987-1442-49d5-ab69-769659b66b46)
+![328012015-303feb45-de31-488e-9301-0fc07307c181](https://github.com/Subhikshaa13/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787344/8993bf6b-1ab9-472f-a198-0f87e1d92078)
+
  
  
 ## Result :
